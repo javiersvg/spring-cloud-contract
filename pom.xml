@@ -24,7 +24,7 @@
 
 	<properties>
 		<activemq.version>5.15.11</activemq.version>
-		<camel.version>3.1.0</camel.version>
+		<camel.version>3.2.0</camel.version>
 		<checkstyle.version>2.17</checkstyle.version>
 		<pact.version>4.0.9</pact.version>
 		<jsch-agent.version>0.0.9</jsch-agent.version>
@@ -42,7 +42,7 @@
 		<hoverfly-junit.version>0.2.2</hoverfly-junit.version>
 		<commons-text.version>1.8</commons-text.version>
 		<handlebars.version>4.1.2</handlebars.version>
-		<jgit.version>5.5.1.201910021850-r</jgit.version>
+		<jgit.version>5.8.0.202006091008-r</jgit.version>
 		<javax-inject.version>1</javax-inject.version>
 		<rest-assured.version>4.2.0</rest-assured.version>
 
