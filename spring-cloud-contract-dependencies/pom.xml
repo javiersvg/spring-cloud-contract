@@ -16,7 +16,7 @@
 	<description>Spring Cloud Contract Dependencies</description>
 	<properties>
 		<wiremock.version>2.26.3</wiremock.version>
-		<jsonassert.version>0.4.14</jsonassert.version>
+		<jsonassert.version>0.8.0</jsonassert.version>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
